@@ -1,2 +1,2 @@
-# python_text_battle
+# RPG
  Text-based(Terminal) battle game
